@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working for <a href="https://premware.services/">Premware Services India LLP</a>
 - 👀 I’m interested in learning new facts and approches in software development.
-- 😍 Love to working with <a href="https://pub.dev/packages/get">Getx State Management</a> in Flutter.
+- 😍 Love to working with NodeJS, Angular, MongoDB, Express & <a href="https://pub.dev/packages/get">Getx State Management</a> in Flutter .
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jagannath-maharana">LinkedIn</a>, <a href="https://github.com/jagannathm007">Github</a>.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 9 hours listening songs everyday.
