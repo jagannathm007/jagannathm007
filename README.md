@@ -9,7 +9,7 @@
 <br/><br/>
 </div>
 
-- 🔭 I’m currently working for <a href="https://knovator.com/">Knovator Technologies</a>
+- 🔭 I’m currently working for <a href="#">5Inch ventures pvt ltd.</a>
 - 👀 I’m interested in learning new facts and approches in software development.
 - 😍 Love to working with NodeJS, Angular, MongoDB, Express & <a href="https://pub.dev/packages/get">Getx State Management</a> in Flutter .
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jagannath-maharana">LinkedIn</a>, <a href="https://github.com/jagannathm007">Github</a>.
