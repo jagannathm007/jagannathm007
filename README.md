@@ -17,4 +17,4 @@
 - ⚡ Fun fact: I spend almost 9 hours listening songs everyday.
 
 <h2><b>Languages & Tools</b></h2>
-Flutter, Dart, MongoDB, ExpressJS, AngularJS, NodeJS, Mysql. 
+Flutter, Dart, MongoDB, ExpressJS, Angular, AngularJS, NodeJS, Mysql. 
