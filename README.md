@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full stack developer.<br>👀 I’m interested in learning new facts and technologies in depth.<br>😍 Love to working with NodeJS, Angular, MongoDB, Express & Getx state management in Flutter .<br>📫 How to reach me: LinkedIn, Github.<br>😄 Pronouns: He/His.<br>⚡ Fun fact: I spend almost 9 hours listening songs everyday.
+🔭 I’m a Full stack developer.<br>👀 I’m interested in learning new facts and technologies in depth.<br>😍 Love to work with NodeJS, Angular, MongoDB, Express & Getx state management in Flutter .<br>📫 How to reach me: LinkedIn, Github.<br>😄 Pronouns: He/His.<br>⚡ Fun fact: I spend almost 9 hours listening songs everyday.
 
 
 ## 🌐 Socials:
