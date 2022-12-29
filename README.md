@@ -1,8 +1,6 @@
-# 💫 About Me:
-🔭 I’m a Full stack developer.<br>👀 I’m interested in learning new facts and technologies in depth.<br>😍 Love to work with NodeJS, Angular, MongoDB, Express & Getx state management in Flutter .<br>📫 How to reach me: LinkedIn, Github.<br>😄 Pronouns: He/His.<br>⚡ Fun fact: I spend almost 9 hours listening songs everyday.
+# About Me:
+🔭 I’m a full stack developer.<br>👀 I’m interested in learning new facts and technologies in depth.<br>😍 Love to work with NodeJS, Angular, MongoDB, Express & Getx state management in Flutter .<br>📫 How to reach me: LinkedIn, Github.<br>😄 Pronouns: He/His.<br>⚡ Fun fact: I spend almost 9 hours listening songs everyday.
 
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagannath007.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagannath-maharana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ashvinmaharana007) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16993382) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3Q1pA6P1pjW35djheN3lhw) 
 
 # 💻 Tech Stack:
